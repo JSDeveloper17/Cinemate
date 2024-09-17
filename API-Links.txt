@@ -1,0 +1,13 @@
+API Key =  db491ef83ec5d50937a49e85f2be0096
+
+base_url = http://api.themoviedb.org/3
+
+indivisual = https://api.themoviedb.org/3/movie/{movie.id}?api_key=db491ef83ec5d50937a49e85f2be0096
+
+upcoming =  https://api.themoviedb.org/3/movie/upcoming?api_key=db491ef83ec5d50937a49e85f2be0096
+
+top rated = https://api.themoviedb.org/3/movie/top_rated?api_key=db491ef83ec5d50937a49e85f2be0096
+
+popular = https://api.themoviedb.org/3/movie/popular?api_key=db491ef83ec5d50937a49e85f2be0096
+
+search = https://api.themoviedb.org/3/search/movie?api_key=db491ef83ec5d50937a49e85f2be0096&query={movie_name}
