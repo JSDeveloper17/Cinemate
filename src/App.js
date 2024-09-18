@@ -1,6 +1,5 @@
 import {AllRouts} from './routes/AllRouts';
-import {Header, Footer, ScrollToTop} from "./components"
-import './App.css';
+import {Header, Footer, ScrollToTop} from "./components";
 
 function App() {
   return (
